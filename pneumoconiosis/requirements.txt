@@ -1,0 +1,5 @@
+torch        # pin a version that matches your CUDA or CPU setup, e.g., torch==2.0.1+cu118 (see PyTorch site)
+torchvision
+Pillow
+numpy
+matplotlib

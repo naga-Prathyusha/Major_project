@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: pneumo_inference",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/pneumo_inference.py",
+      "args": [
+        "--image", "${workspaceFolder}/images/test_xray.png",
+        "--outdir", "${workspaceFolder}/results",
+        "--device", "auto"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}
