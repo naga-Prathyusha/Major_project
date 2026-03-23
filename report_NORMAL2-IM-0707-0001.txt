@@ -1,0 +1,11 @@
+Input image: C:\Users\hp\OneDrive\Desktop\Major Project\dataset_cls\stage1_normal\NORMAL2-IM-0707-0001.jpeg
+Predicted label: Normal
+Message: It is normal.
+Class probabilities:
+  Normal : 0.3428
+  Bacteria infection : 0.3199
+  Virus (critical) : 0.3373
+
+Notes:
+ - Seg model: None
+ - Cls model: None
